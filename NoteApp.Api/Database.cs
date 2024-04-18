@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+
 using NoteApp.Api.Models;
 
 namespace NoteApp.Api;
